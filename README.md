@@ -10,6 +10,7 @@ Computer Science undergraduate at Vasavi College of Engineering, Hyderabad. I bu
 - 📱 **Focus:** Full-stack development, mobile applications, and backend systems.
 - ⚙️ **Philosophy:** Simple architecture over unnecessary complexity. If a problem can be solved with static assets and smart caching, don't spin up an idle server.
 - 💼 **Open to:** Software engineering internships, open-source projects, and technical discussions.
+- 🌐 **Portfolio:** [harshith397.github.io](https://harshith397.github.io)
 
 ---
 
@@ -64,6 +65,7 @@ Computer Science undergraduate at Vasavi College of Engineering, Hyderabad. I bu
 
 ### 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://harshith397.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-medichelme/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshith397)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/harrshth_24)
