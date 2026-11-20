@@ -58,8 +58,7 @@ Computer Science undergraduate at Vasavi College of Engineering, Hyderabad. I bu
 | :--- | :--- | :--- | :--- |
 | **VCE Companion** | Mobile app for Vasavi students that bypasses ERP session timeouts using an on-device WebView bridge. Features real-time attendance calculation (bunk vs. attend margin) and period-by-period schedules. | React Native, Expo, JavaScript | [Demo](https://harshith397.github.io/vce-app/) • [Code](https://github.com/harshith397/vce-app) |
 | **SGPA Calculator** | Zero-backend GPA calculator with automated syllabus updates. Uses a daily GitHub Actions pipeline with Groq vision models to parse college syllabus PDFs into structured JSON. | React, Tailwind CSS, GitHub Actions, Groq | [Demo](https://harshith397.github.io/sgpa/) • [Code](https://github.com/harshith397/scgpa-cal-vce) |
-| **Smart Bulb & Environmental Monitor** | Embedded firmware for a connected smart lighting ecosystem integrating temperature, humidity, particulate matter, and ambient light sensors with BLE-based Wi-Fi provisioning. | C, ESP32-S3, ESP-IDF, MQTT | — |
-| **AI Email Generator** | Single-dashboard tool generating structured professional emails from custom parameters, built and deployed in 24 hours at a college hackathon. | React, Flask, Groq API | [Code](https://github.com/harshith397/email_static) |
+| **Smart Bulb & Environmental Monitoring System** | Connected smart lighting ecosystem and embedded firmware integrating environmental sensors (temp, humidity, ambient light, particulate matter, gas) with BLE-based Wi-Fi provisioning, occupancy detection, and event alerts. | C, ESP32-S3, ESP-IDF, MQTT | [Code](https://github.com/harshith397/SmartBulb) |
 
 ---
 
